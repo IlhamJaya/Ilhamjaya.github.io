@@ -227,7 +227,7 @@ Silakan tutup pesan ini, dan mari kita mulai sesuatu yang hebat.`;
                 <img
                   src="/profil.png"
                   alt="Foto profil Ilham Jaya"
-                  className="w-16 h-16 md:w-20 md:h-20 rounded-2xl object-cover border border-[#30363D] shadow-[0_0_30px_rgba(46,160,67,0.15)]"
+                  className="w-16 h-16 md:w-20 md:h-20 rounded-full object-cover border border-[#30363D] shadow-[0_0_30px_rgba(46,160,67,0.15)]"
                 />
                 <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[#161B22]/70 border border-[#30363D] backdrop-blur-sm text-sm text-[#8B949E]">
                   <span className="relative flex h-2 w-2">
