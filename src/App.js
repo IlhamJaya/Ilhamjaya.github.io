@@ -212,7 +212,7 @@ Silakan tutup pesan ini, dan mari kita mulai sesuatu yang hebat.`;
             Profile<span className="text-[#2EA043]">.</span>
           </span>
           <a href="#halo" className="text-sm font-medium hover:text-[#F0F6FC] transition-colors duration-300">
-            Mari Ngobrol
+            Ilham Jaya
           </a>
         </div>
       </nav>
